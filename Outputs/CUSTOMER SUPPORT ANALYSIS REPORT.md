@@ -1,3 +1,9 @@
+### 🧾 **Customer Support Analysis Summary Report**
+
+####  🎯 **Objective:**
+
+To categorize customer support tickets using Natural Language Processing (NLP) techniques, identify the most frequently reported problems, and recommend actionable process improvements to enhance customer satisfaction and operational efficiency.
+
 
 
 ### 📊 Exploratory Data Analysis (EDA) Insights
