@@ -85,7 +85,7 @@ Using Non-negative Matrix Factorization (NMF) on TF-IDF features, support ticket
 | Account Access Issues     | Users face login failures                        | Add a password reset self-service feature  |
 | Performance Problems      | App slow or crashes frequently                   | Optimize backend queries                   |
 | Unresolved Support        | Tickets closed without actual resolution         | Improve agent follow-up workflows          |
-| Data Privacy Concerns     | Users confused about data usage   
+| Data Privacy Concerns     | Users confused about data usage                  | breach, secure, data, privacy, compromised |
 
 
 
