@@ -1,0 +1,14 @@
+pandas
+numpy
+seaborn
+matplotlib
+selenium
+#time
+scikit-learn 
+nltk
+WordCloud
+gradio
+joblib
+#string
+#re
+#-e .
